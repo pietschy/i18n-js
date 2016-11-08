@@ -2,6 +2,7 @@
 require "rails/engine"
 require "sprockets/context"
 
+require "i18n/js/version"
 require "i18n/js/engine"
 require "i18n/js/dependency_resolver"
 require "i18n/js/filter"
